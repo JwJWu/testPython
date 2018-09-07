@@ -1,2 +1,0 @@
-# testWeb
-is python repository
